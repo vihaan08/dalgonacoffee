@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+body {font-family: 'Dosis', sans-serif;
+    background-color: peachpuff ;
+}
+h2{
+    color: rgb(128, 35, 35);
+    text-decoration-line: underline
+}
+button{
+    background-color: rgb(172, 41, 41);
+    font-size: 110%;
+}
